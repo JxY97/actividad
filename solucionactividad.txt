@@ -1,0 +1,5 @@
+Primary color es #0288D1
+
+Dark Primary Color es #5D4037
+
+Accent Color es #03A9F4
